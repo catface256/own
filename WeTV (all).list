@@ -17,7 +17,6 @@ IP-CIDR,150.109.28.51/32
 PROCESS-NAME,com.tencent.qqlivei18n
 PROCESS-NAME,com.tencent.qqlivei18n.us
 DOMAIN,content.rfix.tdos.vip
-IP-CIDR,119.29.29.98/24
 DOMAIN,h.trace.qq.com
 DOMAIN,graph.facebook.com
 DOMAIN,v.qq.com
