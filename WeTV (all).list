@@ -1,0 +1,48 @@
+# NAME: WeTV
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-11-03 17:10:12
+# DOMAIN-SUFFIX: 7
+# IP-CIDR: 1
+# PROCESS-NAME: 2
+# TOTAL: 10
+DOMAIN-SUFFIX,iflix-images.akamaized.net
+DOMAIN-SUFFIX,iflix.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,v.smtcdns.net
+DOMAIN-SUFFIX,vv.video.qq.com
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+IP-CIDR,150.109.28.51/32
+PROCESS-NAME,com.tencent.qqlivei18n
+PROCESS-NAME,com.tencent.qqlivei18n.us
+DOMAIN,content.rfix.tdos.vip
+IP-CIDR,119.29.29.98
+DOMAIN,h.trace.qq.com
+DOMAIN,graph.facebook.com
+DOMAIN,v.qq.com
+DOMAIN,szmg.qq.com
+DOMAIN,mtrace.qq.com
+DOMAIN,googleads.g.doubleclick.net
+DOMAIN,www.turingfraud.net
+DOMAIN,fcmtoken.googleapis.com
+DOMAIN,ubads.g.doubleclick.net
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,wuji.video.qq.com
+DOMAIN,soup.v.qq.com
+DOMAIN,fcmtoken.googleapis.com
+DOMAIN,config.ab.qq.com
+DOMAIN,puui.qpic.cn
+DOMAIN,othstr.beacon.qq.com
+DOMAIN,IP-CIDR,101.33.17.19
+DOMAIN,IP-CIDR,203.205.255.99:80
+DOMAIN,aegis.qq.com
+DOMAIN,pubads.g.doubleclick.net
+DOMAIN,clients3.google.com
+DOMAIN,IP-CIDR,101.33.17.25
+DOMAIN,IP-CIDR,203.205.136.93
+DOMAIN,otheve.beacon.qq.com
+DOMAIN,app-measurement.com
+
+
