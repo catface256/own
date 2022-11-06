@@ -44,5 +44,7 @@ DOMAIN,appcfg.v.qq.com:443
 IP-CIDR, 119.29.0.0/16
 IP-CIDR, 101.32.0.0/14
 IP-CIDR, 60.0.0.0/11
+DOMAIN-SUFFIX,diagnose.tdos.vip
+IP-CIDR,203.205.137.183/24
 
 
