@@ -39,5 +39,7 @@ DOMAIN,pubads.g.doubleclick.net
 DOMAIN,clients3.google.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN,app-measurement.com
+DOMAIN,oth.eve.mdt.qq.com
+DOMAIN,appcfg.v.qq.com:443
 
 
