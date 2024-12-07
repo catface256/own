@@ -1,0 +1,25 @@
+# NAME: hbomax
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2022-11-03 17:10:12
+# DOMAIN-SUFFIX: 7
+# IP-CIDR: 1
+# PROCESS-NAME: 2
+# TOTAL: 10
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,conviva.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX, amazonaws.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,comhbo.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,brightline.tv
+DOMAIN-SUFFIX,litix.io
+DOMAIN-SUFFIX,5itv.tv
+DOMAIN-SUFFIX,ocnttv.com
+DOMAIN-SUFFIX,iflix-images.akamaized.net
+DOMAIN-SUFFIX,iflix.com
